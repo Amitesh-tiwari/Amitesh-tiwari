@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building a Git Clone<br>Expert🥇@codestudio || 💻 MERN Developer <br>Creating Immersive User Experiences 🌟Strong in design <br>and integration with intuitive problem-solving skills.
+I'm currently working on building a Git Clone<br>Looking forward to contribute in a good Open Source React project.
 
 
 ## 🌐 Socials:
